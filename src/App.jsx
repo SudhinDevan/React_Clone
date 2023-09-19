@@ -6,7 +6,6 @@ import { actionMovies, netflixOriginals, comedy } from './urls'
 
 function App() {
 
-
   return (
     <>
       <Navbar/>
