@@ -1,5 +1,4 @@
 .banner{
-  background-image: url('/1144071.jpg');
   background-size: cover;
   height: 442px;
   color: white;
@@ -45,7 +44,7 @@
   font-size: 1rem;
   height: 80px;
   font-weight: 500;
-  max-width: 360px;
+  max-width: 460px;
 }
 
 .fade_bottom{
